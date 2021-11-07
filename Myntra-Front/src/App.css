@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+nav ul a:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.carousel{
+    cursor: pointer;
+}
+.deal{
+    cursor: pointer;
+}
+.deal:hover{
+    transform: translateY(-5px);
+}
+.rating .fa{
+    color: #ff523b;
+}
+.product{
+    padding-top: 80px;
+}
+.btn{
+    color: #F13AB1;
+}

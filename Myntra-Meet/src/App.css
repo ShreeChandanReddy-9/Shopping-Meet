@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* div[disabled]
+{
+  pointer-events: none;
+  opacity: 0.3;
+}
+
+  .muted {
+    color: #fff;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+    background: #353b48;
+    border-radius: 50%;
+    height: 22px;
+    width: 22px!important;
+  }
+
+  .hide {
+    display: none;
+  } */

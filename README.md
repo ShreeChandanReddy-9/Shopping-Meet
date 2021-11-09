@@ -20,7 +20,7 @@ Myntra-Meet makes online shoping more **smart**, more **social** and more **fun*
  - WebRTC.
 
 ## 📽 Sample Demo:
-https://drive.google.com/file/d/1M19YmPvTYGy8lobgdAi3Z8hSZGT024RC/view
+https://drive.google.com/file/d/1ByTqb4my9SU6TQ8Aln1uG-t1F50G3o6l/view?usp=sharing
 
 
 :file_folder: *FOLDERS OF THIS REPOSITORY*

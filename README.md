@@ -5,7 +5,7 @@
 
 # Myntra Meet:
 ## 📜 Description:
-**Myntra-Meet** is an online shoping feature that helps customers shop with their family and friends. Customers can now invite one or many friends to shop along with them as if in retail shoping. This can keep customers engaged in the store for longer period of time.
+**Myntra-Meet** is an online shopping feature that helps customers shop with their family and friends  through a video call feature. Customers can now invite one or many friends to shop along with them as if in retail shopping. This can keep customers engaged in the store for a longer period of time.
 <br/>
 Myntra-Meet makes online shoping more **smart**, more **social** and more **fun** 
 

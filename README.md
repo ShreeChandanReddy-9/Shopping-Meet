@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1ByTqb4my9SU6TQ8Aln1uG-t1F50G3o6l/view?usp=shari
 
 ## 👦Developed By
 - [@ShreeChandanReddy](https://github.com/ShreeChandanReddy-9)
-- [@Ranil Bala](https://github.com/Ranilbala)
+- [@Ranilbala](https://github.com/Ranilbala)
 
 
 

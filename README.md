@@ -5,12 +5,12 @@
 
 # Myntra HackerRamp:
 ## 📜 Description:
-**Myntra-Meet** is an online shopping feature that helps customers shop with their family and friends  through a video call feature. Customers can now invite one or many friends to shop along with them as if in retail shopping. This can keep customers engaged in the store for a longer period of time.
+**Shopping Meet** is an online shopping feature that helps customers shop with their family and friends  through a video call feature. Customers can now invite one or many friends to shop along with them as if in retail shopping. This can keep customers engaged in the store for a longer period of time.
 <br/>
-Myntra-Meet makes online shoping more **smart**, more **social** and more **fun** 
+Shopping Meet makes online shoping more **smart**, more **social** and more **fun** 
 
 ## 🌎 Deployed Website:
-[Myntra-Meet](https://myntra-fashion.web.app/)
+[Shopping-Meet](https://myntra-fashion.web.app/)
 
 ## 🛠 TechStack/framework used:
  - React.

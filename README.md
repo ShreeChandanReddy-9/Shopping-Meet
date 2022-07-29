@@ -1,9 +1,9 @@
 ![Logo](https://user-images.githubusercontent.com/29287671/97078166-ba3bde80-1607-11eb-9a4e-7d5e223e7d58.png)
 <h1 align="center">
- Myntra HackerRamp
+ Shopping Meet
 </h1>
 
-# Myntra Meet:
+# Myntra HackerRamp:
 ## 📜 Description:
 **Myntra-Meet** is an online shopping feature that helps customers shop with their family and friends  through a video call feature. Customers can now invite one or many friends to shop along with them as if in retail shopping. This can keep customers engaged in the store for a longer period of time.
 <br/>
